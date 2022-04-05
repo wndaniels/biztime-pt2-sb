@@ -1,0 +1,27 @@
+{
+  "name": "express-biztime-pt2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wndaniels/biztime-pt2-sb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wndaniels/biztime-pt2-sb/issues"
+  },
+  "homepage": "https://github.com/wndaniels/biztime-pt2-sb#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "pg": "^8.7.3",
+    "slugify": "^1.6.5",
+    "supertest": "^6.2.2"
+  }
+}
