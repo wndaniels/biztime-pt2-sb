@@ -1,8 +1,4 @@
-DROP DATABASE IF EXISTS biztime;
-
-CREATE DATABASE biztime;
-
-\c biztime;
+\c biztime_test;
 
 DROP TABLE IF EXISTS invoices;
 DROP TABLE IF EXISTS companies;
